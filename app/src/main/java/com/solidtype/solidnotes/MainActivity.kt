@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             SolidNotesTheme {
-                Surface(//Se actualizo el background
+                Surface(
                     color = MaterialTheme.colorScheme.background
                 ) {
                     val navController = rememberNavController()
