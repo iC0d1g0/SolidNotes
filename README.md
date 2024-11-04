@@ -49,6 +49,22 @@ Para instalar la aplicación, simplemente descarga el APK desde el enlace de dis
 
 **SolidNotes** es una aplicación gratuita, disponible para todos los usuarios de Android.
 
+### 📂 Assets
+
+- [SolidNotes-v1.0.0.apk](https://github.com/iC0d1g0/SolidNotes/releases/download/v1.0.0/SolidNotes.apk) - Archivo APK para instalar en dispositivos Android.
+
+
+---
+![JuniorSolid](https://github.com/user-attachments/assets/5c7e003b-37ad-4f78-aa65-d98c641aaff0)
+
+---
+
+
+![Junior2](https://github.com/user-attachments/assets/8d67e4f7-440e-442f-a045-12f272dc4c38)
+
+
+
+
 ## 📩 Contacto
 
 Para más información o preguntas, contáctame a través de [adderlis@live.com](mailto:adderlis@live.com) o crea un *issue* en el repositorio.
